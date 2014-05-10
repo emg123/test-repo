@@ -12,4 +12,4 @@ This is a list
 * Another list item
 * Yet another list item
 
-#end-of-file
+###end-of-file
